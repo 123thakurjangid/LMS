@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+div{
+    width: 400px;
+    margin-top: 30px;
+    background-color: white;
+    
+}
+li{
+    padding-bottom: 10%;
+}
